@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+#name: inheritDoc
+#key: @in
+#contributor Mitchell Peabody (mitchell.peabody [at] gmail.com)
+# --
+/**
+ * {@inheritDoc}
+ */

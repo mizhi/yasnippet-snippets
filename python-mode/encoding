@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: enc
+# key: pyenc
+# --
+# -*- coding: utf-8 -*-
